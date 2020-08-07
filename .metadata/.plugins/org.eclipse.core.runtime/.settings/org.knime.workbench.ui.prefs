@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+knime.confirm.delete=false
+knime.confirm.reconnect=never
+knime.confirm.replace=false
+knime.confirm.reset=false

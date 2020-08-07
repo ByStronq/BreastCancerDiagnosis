@@ -1,0 +1,7 @@
+C:\Users\techn\OneDrive\Documents\Wisconsin Breast Cancer Database.xlsx
+C:\Users\techn\Downloads\Documents\Wisconsin Breast Cancer Database.xlsx
+C:\Users\techn\Downloads\Wisconsin Prognostic Breast Cancer (WPBC).xlsx
+C:\Users\techn\Downloads\Wisconsin Breast Cancer Database.xlsx
+C:\Users\techn\Downloads\breast-cancer-wisconsin.xlsx
+file:/C:/Users/techn/Downloads/breast-cancer-wisconsin.xlsx
+file:/C:/Users/techn/Downloads/Compressed/data.xlsx
